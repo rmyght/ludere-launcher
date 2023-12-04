@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.20.13560",
-	"launcherVersion": "1.0",
+	"launcherVersion": "1.0.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/rmgyht/ludere-launcher/releases/download/1.0.0/client.zip",
 	"clientExecutable": "client.exe"
 }
