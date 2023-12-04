@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/rmgyht/ludere-launcher/releases/download/1.0.0/client.zip",
+	"newClientUrl" : "https://github.com/rmyght/ludere-launcher/releases/download/1.0.0/client.zip",
 	"clientExecutable": "client.exe"
 }
