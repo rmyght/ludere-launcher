@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl": "https://ludere.ovh/downloads/client/1.0.0/",
+	"newClientUrl": "https://ludere.ovh/downloads/client/1.0.0/client.zip",
 	"clientExecutable": "client.exe"
 }
